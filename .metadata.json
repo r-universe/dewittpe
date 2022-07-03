@@ -8,6 +8,10 @@
     "oncran": true
   },
   {
+    "package": "pedbp",
+    "oncran": true
+  },
+  {
     "package": "qwraps2",
     "oncran": true
   },
