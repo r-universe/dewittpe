@@ -3,14 +3,19 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "qwraps2"]
+	path = qwraps2
+	url = https://github.com/dewittpe/qwraps2
+	shallow = true
+	registered = true
 [submodule "cpr"]
 	path = cpr
 	url = https://github.com/dewittpe/cpr
 	shallow = true
 	registered = true
-[submodule "ensr"]
-	path = ensr
-	url = https://github.com/dewittpe/ensr
+[submodule "REDCapExporter"]
+	path = REDCapExporter
+	url = https://github.com/dewittpe/redcapexporter
 	shallow = true
 	registered = true
 [submodule "pedbp"]
@@ -18,13 +23,8 @@
 	url = https://github.com/dewittpe/pedbp
 	shallow = true
 	registered = true
-[submodule "qwraps2"]
-	path = qwraps2
-	url = https://github.com/dewittpe/qwraps2
-	shallow = true
-	registered = true
-[submodule "REDCapExporter"]
-	path = REDCapExporter
-	url = https://github.com/dewittpe/redcapexporter
+[submodule "ensr"]
+	path = ensr
+	url = https://github.com/dewittpe/ensr
 	shallow = true
 	registered = true
