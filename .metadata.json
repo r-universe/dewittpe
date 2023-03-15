@@ -1,14 +1,10 @@
 [
   {
-    "package": "qwraps2",
-    "oncran": true
-  },
-  {
     "package": "cpr",
     "oncran": true
   },
   {
-    "package": "REDCapExporter",
+    "package": "ensr",
     "oncran": true
   },
   {
@@ -16,7 +12,11 @@
     "oncran": true
   },
   {
-    "package": "ensr",
+    "package": "qwraps2",
+    "oncran": true
+  },
+  {
+    "package": "REDCapExporter",
     "oncran": true
   }
 ]
