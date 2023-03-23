@@ -13,6 +13,11 @@
 	url = https://github.com/dewittpe/ensr
 	shallow = true
 	registered = true
+[submodule "pedalfast.data"]
+	path = pedalfast.data
+	url = https://github.com/cran/pedalfast.data
+	shallow = true
+	registered = true
 [submodule "pedbp"]
 	path = pedbp
 	url = https://github.com/dewittpe/pedbp
