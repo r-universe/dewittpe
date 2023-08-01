@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "REDCapExporter"]
+	path = REDCapExporter
+	url = https://github.com/dewittpe/redcapexporter
 [submodule "cpr"]
 	path = cpr
 	url = https://github.com/dewittpe/cpr
@@ -17,6 +20,3 @@
 [submodule "qwraps2"]
 	path = qwraps2
 	url = https://github.com/dewittpe/qwraps2
-[submodule "REDCapExporter"]
-	path = REDCapExporter
-	url = https://github.com/dewittpe/redcapexporter
