@@ -11,6 +11,9 @@
 [submodule "ensr"]
 	path = ensr
 	url = https://github.com/dewittpe/ensr
+[submodule "medicalcoder"]
+	path = medicalcoder
+	url = https://github.com/dewittpe/medicalcoder
 [submodule "pedalfast.data"]
 	path = pedalfast.data
 	url = https://github.com/cran/pedalfast.data
